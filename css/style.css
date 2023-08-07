@@ -66,8 +66,8 @@
     border: none;
 }
 #aSide {
-    height: 600px;
-    width: 600px;
+    height: 700px;
+    width: 900px;
     position: absolute;
     top: calc(50% - 250px);
     right: 7%;
